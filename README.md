@@ -1,5 +1,5 @@
 # tecnun-fab-25
 
-# Lakehouse
+### Implement a lakehouse with Microsoft Fabric 
 
-# Warehouse
+### Implement a Data Warehouse with Microsoft Fabric
