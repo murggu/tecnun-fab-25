@@ -2,4 +2,35 @@
 
 ### Implement a lakehouse with Microsoft Fabric 
 
+Create a Microsoft Fabric Lakehouse
+- https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/01-lakehouse.html
+
+
+Analyze data with Apache Spark in Fabric
+- https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/02-analyze-spark.html
+
+Use Delta Tables in Apache Spark
+- https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/03-delta-lake.html
+
+Create and use Dataflows (Gen2) in Microsoft Fabric
+- https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/05-dataflows-gen2.html
+
+Ingest data with a pipeline in Microsoft Fabric
+- https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/04-ingest-pipeline.html
+
 ### Implement a Data Warehouse with Microsoft Fabric
+
+Analyze data in a data warehouse
+- https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/06-data-warehouse.html
+
+Load data into a warehouse using T-SQL
+- https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/06a-data-warehouse-load.html
+
+Query a data warehouse in Microsoft Fabric
+- https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/06b-data-warehouse-query.html
+
+Monitor a data warehouse in Microsoft Fabric
+- https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/06c-monitor-data-warehouse.html
+
+Secure a Microsoft Fabric data warehouse
+- https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/06d-secure-data-warehouse.html
