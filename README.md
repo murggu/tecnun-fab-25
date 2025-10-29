@@ -34,3 +34,20 @@ Monitor a data warehouse in Microsoft Fabric
 
 Secure a Microsoft Fabric data warehouse
 - https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/06d-secure-data-warehouse.html
+
+### Implement a data science and machine learning solution for AI with Microsoft Fabric
+
+Get started with data science in Microsoft Fabric
+- https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/08-data-science-get-started.html
+
+Explore data for data science with notebooks in Microsoft Fabric
+- https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/08a-data-science-explore-data.html
+
+Preprocess data with Data Wrangler in Microsoft Fabric
+- https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/08b-data-science-preprocess-data-wrangler.html
+
+Train and track machine learning models with MLflow in Microsoft Fabric
+- https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/08c-data-science-train.html
+
+Generate batch predictions using a deployed model in Microsoft Fabric
+- https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/08d-data-science-batch.html
