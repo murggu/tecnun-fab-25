@@ -49,8 +49,8 @@ Preprocess data with Data Wrangler in Microsoft Fabric
 Train and track machine learning models with MLflow in Microsoft Fabric
 - https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/08c-data-science-train.html
 
-Fabric data agent example with the AdventureWorks dataset  (Bonus)
-- https://learn.microsoft.com/en-us/fabric/data-science/data-agent-end-to-end-tutorial
-
 Generate batch predictions using a deployed model in Microsoft Fabric
 - https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/08d-data-science-batch.html
+
+Fabric data agent example with the AdventureWorks dataset  (Bonus)
+- https://learn.microsoft.com/en-us/fabric/data-science/data-agent-end-to-end-tutorial
